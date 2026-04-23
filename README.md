@@ -22,9 +22,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **25-year-old Frontend Developer** based in Spain with a passion for building clean, intuitive, and performant web interfaces. Right now I'm running two tracks in parallel — shipping good code by day and grinding through **public administration exams (oposiciones)** by night.
-
-Yes, both at the same time. Yes, it's a lot of coffee.
+I'm a **25 year old FrontEnd Developer** based in Spain with a passion for building clean, intuitive, and performant web interfaces. Right now I'm running two tracks in parallel — shipping good code by day and grinding through **public administration exams (oposiciones)** by night.
 
 - 🎨 I care deeply about UI/UX details — pixels matter
 - ⚡ I love optimizing performance and keeping bundles lean
@@ -73,9 +71,6 @@ Yes, both at the same time. Yes, it's a lot of coffee.
 [██░░░░░░░░░░░░░░░░░░] Side Projects          ~5%
 ```
 
-> *"The best developers never stop being students."*  
-> — Living proof of this right now.
-
 ---
 
 ## 🗂️ What You'll Find Here
@@ -90,7 +85,6 @@ Yes, both at the same time. Yes, it's a lot of coffee.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/antonioqueromartin)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antonio@example.com)
 
 </div>
