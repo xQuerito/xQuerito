@@ -51,18 +51,6 @@ I'm a **25 year old FrontEnd Developer** based in Spain with a passion for build
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Antonio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=antonioquero&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=antonioquero&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🎯 Current Focus
 
 ```
